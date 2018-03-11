@@ -1,6 +1,6 @@
 public class ExArray {
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
         int a = 0 + (int) (Math.random() * ((5 - 0)));
         int b = 5 + (int) (Math.random() * ((10 - 5)));
         int c = 7 + (int) (Math.random() * ((10 - 7)));
